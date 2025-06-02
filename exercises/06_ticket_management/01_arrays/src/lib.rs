@@ -2,6 +2,7 @@
 
 pub struct WeekTemperatures {
     // TODO
+    temps: [u32; 7],
 }
 
 pub enum Weekday {
